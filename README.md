@@ -7,14 +7,20 @@
 <p align="center">A passionate mobile and web developer</p>
 
 ###
+<div align="center">
+  
+ <img src="https://profile-counter.glitch.me/robinsrk/count.svg?"  />
+</div>
 
-<img align="right" src="https://profile-counter.glitch.me/robinsrk/count.svg?"  />
+ ###
+ 
+<div align="center">
+<img height="400" src="./profile-pic (6).png"  />
+</div>
 
 ###
 
 <br clear="both">
-
-<img align="left" height="200" src="./profile-pic (6).png"  />
 
 ###
 
