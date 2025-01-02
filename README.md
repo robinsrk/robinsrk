@@ -7,13 +7,14 @@
 <p align="center">A passionate mobile and web developer</p>
 
 ###
+
 <div align="center">
   
  <img src="https://profile-counter.glitch.me/robinsrk/count.svg?"  />
 </div>
 
- ###
- 
+###
+
 <div align="center">
 <img height="400" src="./profile-pic (6).png"  />
 </div>
@@ -104,7 +105,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/robinsrk/robinsrk/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robinsrk/robinsrk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robinsrk/robinsrk/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/robinsrk/robinsrk/output/github-snake.svg" />
+</picture>
 
 ###
 
