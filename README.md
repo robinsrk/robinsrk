@@ -1,125 +1,139 @@
-<h1 align="center">Hi 👋, I'm Robin</h1>
-
-###
-
-<br clear="both">
-
-<p align="center">A passionate mobile and web developer</p>
-
-###
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Abul%20Kalam%20Robin&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descSize=25&descAlignY=55&customColorList=10" width="100%" />
+</div>
 
 <div align="center">
+  <img src="./banner.png" width="100%" style="border-radius: 15px;" alt="Premium Banner" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Crafting+Digital+Experiences;Mobile+%26+Web+Architect;Open+Source+Advocate" alt="Typing SVG" />
+  <br />
   
- <img src="https://profile-counter.glitch.me/robinsrk/count.svg?"  />
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/robinsrk?label=Followers&style=plastic&color=indigo&logo=github&logoColor=white" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/robinsrk?label=Total%20Stars&style=plastic&color=blueviolet&logo=github&logoColor=white" alt="Stars" />
+    <img src="https://profile-counter.glitch.me/robinsrk/count.svg" alt="Visitors" />
+  </p>
 </div>
 
-###
+---
+
+### 🌌 The Developer's Journey
+
+<p align="justify">
+A results-driven <b>Software Developer</b> specializing in the art of building high-performance, cross-platform applications. My focus lies at the intersection of <i>scalability</i>, <i>clean architecture</i>, and <i>intuitive user experiences</i>. From low-level Android motion sensor integration to high-level reactive web interfaces, I strive for excellence in every line of code.
+</p>
+
+- 🔭 **Frontier:** Engineering high-impact mobile utility apps with a focus on battery efficiency.
+- 🌱 **Evolving:** Deep-diving into **Jetpack Compose** & **Kotlin Multiplatform**.
+- 🏢 **Heritage:** Former Frontend dev at MihiSoft and Partake (Barcelona).
+- 🎨 **Philosophy:** Code is poetry; performance is mandatory.
+
+---
+
+### 🧬 Professional Arsenal
 
 <div align="center">
-<img height="400" src="./profile-pic (6).png"  />
+  <table border="0">
+    <tr>
+      <td valign="top" width="25%">
+        <h4 align="center">📱 Mobile</h4>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android" />
+        </p>
+      </td>
+      <td valign="top" width="25%">
+        <h4 align="center">🌐 Frontend</h4>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+        </p>
+      </td>
+      <td valign="top" width="25%">
+        <h4 align="center">⚙️ Backend</h4>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,mongodb" />
+        </p>
+      </td>
+      <td valign="top" width="25%">
+        <h4 align="center">🛠️ Tools</h4>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+---
 
-<br clear="both">
-
-###
-
-<br clear="both">
-
-<p align="left">🔭 I’m currently not working<br><br>🌱 I’m currently learning Flutter, Dart, Swift<br><br>👨‍💻 All of my projects are available at robinsrk.netlify.app<br><br>💬 Ask me about Flutter, Dart<br><br>📫 How to reach me abul.kalam.robin.dev@gmail.com</p>
-
-###
-
-<br clear="both">
+### 💎 Featured Creations
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <table border="0">
+    <tr>
+      <td width="33%">
+        <p align="center"><b>Flip 2 DND</b></p>
+        <p align="center"><i>Motion-based DND toggle with ultra-low battery footprint.</i></p>
+        <p align="center"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" /></p>
+        <p align="center"><a href="https://github.com/robinsrk/flip_2_dnd"><b>View Source →</b></a></p>
+      </td>
+      <td width="33%">
+        <p align="center"><b>Noorify</b></p>
+        <p align="center"><i>Islamic lifestyle ecosystem with multi-language Quran & trackers.</i></p>
+        <p align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /></p>
+        <p align="center"><a href="https://github.com/robinsrk/noorify"><b>View Source →</b></a></p>
+      </td>
+      <td width="33%">
+        <p align="center"><b>Deshi Ponno</b></p>
+        <p align="center"><i>Next-gen eCommerce prototype featuring real-time barcode scanning.</i></p>
+        <p align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></p>
+        <p align="center"><a href="#"><b>Prototype Only →</b></a></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+---
 
-<br clear="both">
+### 📊 Galactic Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robinsrk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robinsrk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=robinsrk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=robinsrk&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robinsrk&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=robinsrk&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinsrk&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Langs" />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robinsrk/robinsrk/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robinsrk/robinsrk/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/robinsrk/robinsrk/output/github-snake.svg" />
-</picture>
-
-###
+<br />
 
 <div align="center">
-  <a href="https://linkedin.com/in/robinsrk" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://streak-stats.demolab.com?user=robinsrk&theme=tokyonight&hide_border=true" height="180" alt="Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robinsrk&theme=tokyo-night&area=true&hide_border=true" height="300" width="100%" alt="Activity Graph" />
 </div>
 
-###
+---
+
+### 🤝 Cosmic Connections
+
+<div align="center">
+  <a href="https://linkedin.com/in/robinsrk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abul.kalam.robin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://facebook.com/robinsrk" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://t.me/robinsrk" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A6E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robinsrk/robinsrk/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robinsrk/robinsrk/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/robinsrk/robinsrk/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br />
+
+<p align="center">
+  <i>"Simplicity is the soul of efficiency."</i> – Austin Freeman
+</p>
