@@ -14,7 +14,7 @@
   <p align="center">
     <img src="https://img.shields.io/github/followers/robinsrk?label=Followers&style=plastic&color=indigo&logo=github&logoColor=white" alt="Followers" />
     <img src="https://img.shields.io/github/stars/robinsrk?label=Total%20Stars&style=plastic&color=blueviolet&logo=github&logoColor=white" alt="Stars" />
-    <img src="https://profile-counter.glitch.me/robinsrk/count.svg" alt="Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=robinsrk&color=blue&style=plastic" alt="Profile Views" />
   </p>
 </div>
 
@@ -35,42 +35,17 @@ A results-driven <b>Software Developer</b> specializing in building high-perform
 ### 🧬 Professional Arsenal
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top" width="25%">
-        <h4 align="center">📱 Mobile</h4>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android" />
-        </p>
-      </td>
-      <td valign="top" width="25%">
-        <h4 align="center">🌐 Frontend</h4>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
-        </p>
-      </td>
-      <td valign="top" width="25%">
-        <h4 align="center">⚙️ Backend</h4>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,mongodb" />
-        </p>
-      </td>
-      <td valign="top" width="25%">
-        <h4 align="center">🛠️ Tools</h4>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,nextjs,react,ts,tailwind,firebase,supabase,nodejs,mongodb,git,github,vscode,figma&perline=8" alt="Tech Stack" />
 </div>
 
 ---
 
-### 🏆 Achievements & Trophies
+### 🏆 Key Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=robinsrk&theme=tokyonight&no-bg=true&no-frame=false&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
+  <img src="https://img.shields.io/github/stars/robinsrk?style=for-the-badge&color=8B5CF6&label=Stargazers" alt="Stars" /> 
+  <img src="https://img.shields.io/github/repo-size/robinsrk/noorify?style=for-the-badge&color=A78BFA&label=Noorify%20Size" alt="Noorify Size" /> 
+  <img src="https://img.shields.io/github/languages/top/robinsrk/flip_2_dnd?style=for-the-badge&color=C084FC&label=Flip2DND%20Stack" alt="Project Language" />
 </div>
 
 ---
