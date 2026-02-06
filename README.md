@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="./banner.png" width="100%" style="border-radius: 15px;" alt="Premium Banner" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robinsrk&theme=tokyo-night&area=true&hide_border=true&radius=16&height=250" width="100%" alt="Activity Banner" />
 </div>
 
 <div align="center">
@@ -23,13 +23,12 @@
 ### 🌌 The Developer's Journey
 
 <p align="justify">
-A results-driven <b>Software Developer</b> specializing in the art of building high-performance, cross-platform applications. My focus lies at the intersection of <i>scalability</i>, <i>clean architecture</i>, and <i>intuitive user experiences</i>. From low-level Android motion sensor integration to high-level reactive web interfaces, I strive for excellence in every line of code.
+A results-driven <b>Software Developer</b> specializing in building high-performance, cross-platform applications. My focus lies at the intersection of <i>scalability</i>, <i>clean architecture</i>, and <i>intuitive user experiences</i>. From low-level Android motion sensor integration to high-level reactive web interfaces, I strive for excellence in every line of code.
 </p>
 
 - 🔭 **Frontier:** Engineering high-impact mobile utility apps with a focus on battery efficiency.
 - 🌱 **Evolving:** Deep-diving into **Jetpack Compose** & **Kotlin Multiplatform**.
 - 🏢 **Heritage:** Former Frontend dev at MihiSoft and Partake (Barcelona).
-- 🎨 **Philosophy:** Code is poetry; performance is mandatory.
 
 ---
 
@@ -68,6 +67,14 @@ A results-driven <b>Software Developer</b> specializing in the art of building h
 
 ---
 
+### 🏆 Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=robinsrk&theme=tokyonight&no-bg=true&no-frame=false&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
+</div>
+
+---
+
 ### 💎 Featured Creations
 
 <div align="center">
@@ -93,22 +100,6 @@ A results-driven <b>Software Developer</b> specializing in the art of building h
       </td>
     </tr>
   </table>
-</div>
-
----
-
-### 📊 Galactic Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robinsrk&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinsrk&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Langs" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=robinsrk&theme=tokyonight&hide_border=true" height="180" alt="Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robinsrk&theme=tokyo-night&area=true&hide_border=true" height="300" width="100%" alt="Activity Graph" />
 </div>
 
 ---
